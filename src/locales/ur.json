@@ -1,0 +1,69 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "features": "Features",
+    "adminPanel": "Admin Panel",
+    "submitComplaint": "Submit Complaint",
+    "login": "Login",
+    "signUp": "Sign Up"
+  },
+  "hero": {
+    "title": "Your Voice, Heard. Your City, Improved.",
+    "subtitle": "Streamlining public service complaints with the power of AI. Submit, track, and resolve civic issues seamlessly.",
+    "submitButton": "Submit a Complaint",
+    "trackButton": "Track Your Complaint"
+  },
+  "howItWorks": {
+    "title": "A Simpler Path to Resolution",
+    "step1": {
+      "title": "1. Submit Complaint",
+      "description": "Use our simple, intuitive form to detail your issue. Upload photos or documents to provide more context."
+    },
+    "step2": {
+      "title": "2. AI-Powered Routing",
+      "description": "Our advanced AI analyzes your complaint and instantly routes it to the correct government department, eliminating delays."
+    },
+    "step3": {
+      "title": "3. Track Progress",
+      "description": "Monitor your complaint status through a personal dashboard. Receive live updates and estimated resolution times."
+    },
+    "step4": {
+      "title": "4. Resolution & Feedback",
+      "description": "Once your issue is resolved, you'll be notified. Provide feedback to help us improve public services for everyone."
+    }
+  },
+  "features": {
+    "title": "The Future of Civic Engagement",
+    "feature1": {
+      "title": "Intelligent Routing",
+      "description": "No more guessing games. Our AI ensures your complaint reaches the right desk, right away."
+    },
+    "feature2": {
+      "title": "Real-time Status",
+      "description": "Transparent and accountable. Track your complaint from submission to resolution."
+    },
+    "feature3": {
+      "title": "AI-Suggested Actions",
+      "description": "We empower authorities with AI-driven recommendations for faster, more effective resolutions."
+    },
+    "feature4": {
+      "title": "Citizen-Centric Design",
+      "description": "An easy-to-use platform designed for every citizen, accessible on any device."
+    }
+  },
+  "departments": {
+    "title": "Connecting You to the Right Authority",
+    "subtitle": "Our AI intelligently routes your complaints to various public service departments, ensuring a swift and appropriate response.",
+    "municipalCorp": "Municipal Corp.",
+    "police": "Police",
+    "electricityBoard": "Electricity Board",
+    "waterAuthority": "Water Authority"
+  },
+  "cta": {
+    "title": "Ready to Make a Difference?",
+    "subtitle": "Submit your complaint today and be a part of positive change in your community.",
+    "button": "File Your Complaint Now"
+  }
+}

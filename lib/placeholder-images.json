@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A city street with a large pothole, representing a civic issue that needs to be resolved.",
+      "imageUrl": "https://picsum.photos/seed/pothole/1920/1080",
+      "imageHint": "pothole road"
+    }
+  ]
+}
